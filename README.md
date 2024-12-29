@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arteality, Lukasz M. Oltarzewski, designer, coder
-- 👀 I’m interested in JavaScript, UI, UX, WordPress, PHP, SQL, React, Vue ... Photoshop, Illustrator, Indesign, APIs, Social Media and much more.
-- 🌱 I’m currently learning ... Python, React Native, Lavarel
+- 👀 I’m interested in JavaScript, TS, UI, UX, WordPress, SQL, React, CI/CD, AI ... and much more.
+- 🌱 I’m currently learning ... Python, React Native, Deno
 - 💞️ I’m looking to collaborate on cool interactive projects.
 - 📫 How to reach me ... hello@arteality.pl, https://www.linkedin.com/in/lukaszoltarzewski/ 
 
